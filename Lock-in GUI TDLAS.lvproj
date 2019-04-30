@@ -22,7 +22,7 @@
 		<Item Name="UI functions" Type="Folder" URL="../UI functions">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
+		<Item Name="Crash Code.vi" Type="VI" URL="../Crash Code.vi"/>
 		<Item Name="main_cn.vi" Type="VI" URL="../main_cn.vi"/>
 		<Item Name="test_display.vi" Type="VI" URL="../Example_of_ZI/test_display.vi"/>
 		<Item Name="ziExample-Module-Scope.vi" Type="VI" URL="/&lt;instrlib&gt;/Zurich Instruments LabOne/Examples/ziExample-Module-Scope.vi"/>
